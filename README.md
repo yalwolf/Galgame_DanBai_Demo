@@ -14,4 +14,4 @@
 [Android](https://github.com/yalwolf/Galgame_DanBai_Demo/releases/tag/Android)
 
 ## Images
-<img src="window_icon.png" width="10%" height="10%"><img src="icon.png" width="10%" height="10%">
+<img src="window_icon.png" width="10%" height="10%"> <img src="icon.png" width="10%" height="10%">
