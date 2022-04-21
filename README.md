@@ -7,4 +7,4 @@
 [Android Download](https://github.com/yalwolf/Galgame_DanBai_Demo/releases/tag/Android)
 
 ## Images
-<img src="window-icon.png">
+<img src="window_icon.png">
