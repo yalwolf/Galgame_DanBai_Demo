@@ -12,6 +12,7 @@
 ===Download===
 
 [PC&Linux](https://github.com/yalwolf/Galgame_DanBai_Demo/releases/tag/Windows)
+
 [Android](https://github.com/yalwolf/Galgame_DanBai_Demo/releases/tag/Android)
 
 ## Images
