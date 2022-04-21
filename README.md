@@ -1,4 +1,4 @@
-# Galgame_DanBai_Demo
+# My Girlfriend DanBai Demo
 我的女友之蛋白篇Demo 文件存放库
 
 ## Website
