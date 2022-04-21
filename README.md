@@ -5,9 +5,7 @@
 [官网](https://game.dbhg.top/My%20Girlfriend%20DanBai/)
 [介绍](https://game.dbhg.top/My%20Girlfriend%20DanBai/about/)
 
-### ===Play Demo===
-
-[Play Online](https://api.alwolf.cn/Galgame_DanBai_Demo/)
+[在线游玩](https://api.alwolf.cn/Galgame_DanBai_Demo/)
 
 ===Download===
 
