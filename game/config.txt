@@ -1,0 +1,5 @@
+Game_name:我的女友之蛋白篇Demo;
+Game_key:114514LTS;
+Title_img:main_menu.jpg;
+Title_bgm:none;
+Loading_img:galgame-bg-one-demo.gif;

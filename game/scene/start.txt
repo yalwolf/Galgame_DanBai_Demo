@@ -1,0 +1,4 @@
+changeBG_next:main_menu.jpg
+:你好！游玩者;
+:你想看什么呢;
+choose:{游戏介绍:about.txt,人物介绍:character.txt,剧情介绍:synopsis.txt,结束:off.txt};

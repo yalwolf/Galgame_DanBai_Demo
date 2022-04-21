@@ -1,0 +1,4 @@
+:名字：酪蛋白;
+:职业：主播;
+:年龄：18岁;
+changeScene:start.txt;
