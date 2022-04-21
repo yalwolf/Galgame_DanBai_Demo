@@ -15,3 +15,4 @@
 
 ## Images
 <img src="window_icon.png" width="10%" height="10%">
+<img src="icon.png" width="10%" height="10%">
