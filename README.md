@@ -1,8 +1,9 @@
 # Galgame_DanBai_Demo
 我的女友之蛋白篇Demo 文件存放库
 
-## Main
-[Index](https://game.dbhg.top/My%20Girlfriend%20DanBai/)
+## Website
+[官网](https://game.dbhg.top/My%20Girlfriend%20DanBai/)
+[介绍](https://game.dbhg.top/My%20Girlfriend%20DanBai/about/)
 
 ## Play&Download
 [PLAYDemo](https://api.alwolf.cn/Galgame_DanBai_Demo/)
