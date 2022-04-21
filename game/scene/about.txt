@@ -3,5 +3,5 @@
 :本游戏是由”蛋白后宫二创组“出品;
 :如果你对本游戏感兴趣的话;
 :请期待明年发布的正式版吧！;
-:进入https://game.dbhg.top/galgame/My Girlfriend DanBai/官网查看;
+:进入https://game.dbhg.top/My Girlfriend DanBai/官网查看;
 changeScene:start.txt;
