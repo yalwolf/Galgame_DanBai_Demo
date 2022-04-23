@@ -1,4 +1,6 @@
+changeP_next:DanBai_one.png;
 :名字：酪蛋白;
 :职业：主播;
 :年龄：18岁;
+changeP:none;
 changeScene:start.txt;
